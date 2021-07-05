@@ -1,8 +1,8 @@
 # Bootcamp-Person-API
-Desenvolvimento de um Sistema de Gerenciamento de Pessoas em API REST com Spring Boot.
+Development of a People Management System in REST API with Spring Boot.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-O projeto é um API REST com Spring Boot para cadastro e gerenciamento de pessoas de uma organização com operações de cadastro, leitura, atualização e remoção de pessoas de um sistema. Foi desenvolvido no bootcamp GFT START #2 Java na plataforma Digital Innovation One com o objetivo de aplicar o conhecimento adquirido durate o curso e com o auxílio do instrutor Rodrigo Peleias.
+The project is a REST API with Spring Boot for registering and managing people in an organization with operations for registering, reading, updating and removing people from a system. It was developed in the GFT START # 2 Java bootcamp on the Digital Innovation One platform with the objective of applying the knowledge acquired during the course and with the assistance of instructor Rodrigo Peleias.
 
-O projeto foi feito na IDE Intellij utilizando a linguagem de programação Java 11 e Maven 3.8.1, seu setup inicial foi feito com o Spring Boot Initialzr e seu deploy feito na nuvem utilizando a plataforma Heroku.
+The project was made in IDE Intellij using a programming language Java 11 and Maven 3.8.1, its initial configuration was done with Spring Boot Initialzr and its deployment done in the cloud using the Heroku platform.
 
 
